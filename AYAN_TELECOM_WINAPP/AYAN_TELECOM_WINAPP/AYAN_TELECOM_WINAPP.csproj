@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{68FCFF7D-AC28-4101-A625-F20F249F4D4E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AYAN_TELECOM_WINAPP</RootNamespace>
+    <AssemblyName>AYAN_TELECOM_WINAPP</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Freeware Sys\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <UpdateUrl>http://localhost/AYAN_TELECOM_WINAPP/</UpdateUrl>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>26E07E671A9F65C1338B9CA39E23974CCFFCCC58</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>AYAN_TELECOM_WINAPP_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>smartphone_hbI_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="LAYER_CLASS\BUSINESS_Layer.cs" />
+    <Compile Include="LAYER_CLASS\Data_Layer.cs" />
+    <Compile Include="PRESENTATION_LAYER_FORMS\ADMIN FORMS\AdminDropDown.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTATION_LAYER_FORMS\ADMIN FORMS\AdminDropDown.Designer.cs">
+      <DependentUpon>AdminDropDown.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTATION_LAYER_FORMS\ADMIN FORMS\Master_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTATION_LAYER_FORMS\ADMIN FORMS\Master_Admin.Designer.cs">
+      <DependentUpon>Master_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTATION_LAYER_FORMS\ADMIN FORMS\ViewRechargeRequests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTATION_LAYER_FORMS\ADMIN FORMS\ViewRechargeRequests.Designer.cs">
+      <DependentUpon>ViewRechargeRequests.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTATION_LAYER_FORMS\CUSTOMER FORMS\Edit User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTATION_LAYER_FORMS\CUSTOMER FORMS\Edit User.Designer.cs">
+      <DependentUpon>Edit User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTATION_LAYER_FORMS\FORGOT_PASSWORD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTATION_LAYER_FORMS\FORGOT_PASSWORD.Designer.cs">
+      <DependentUpon>FORGOT_PASSWORD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTATION_LAYER_FORMS\Forgot_Password_verify_ID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTATION_LAYER_FORMS\Forgot_Password_verify_ID.Designer.cs">
+      <DependentUpon>Forgot_Password_verify_ID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTATION_LAYER_FORMS\Forgot_Password_verify_Mobile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTATION_LAYER_FORMS\Forgot_Password_verify_Mobile.Designer.cs">
+      <DependentUpon>Forgot_Password_verify_Mobile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTATION_LAYER_FORMS\LOGIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTATION_LAYER_FORMS\LOGIN.Designer.cs">
+      <DependentUpon>LOGIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTATION_LAYER_FORMS\CUSTOMER FORMS\Master_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTATION_LAYER_FORMS\CUSTOMER FORMS\Master_User.Designer.cs">
+      <DependentUpon>Master_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTATION_LAYER_FORMS\CUSTOMER FORMS\User_Recharge_Request.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTATION_LAYER_FORMS\CUSTOMER FORMS\User_Recharge_Request.Designer.cs">
+      <DependentUpon>User_Recharge_Request.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PRESENTATION_LAYER_FORMS\SIGNUP_USER_FORM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTATION_LAYER_FORMS\SIGNUP_USER_FORM.Designer.cs">
+      <DependentUpon>SIGNUP_USER_FORM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Defined Classes\Properties_Class.cs" />
+    <EmbeddedResource Include="PRESENTATION_LAYER_FORMS\ADMIN FORMS\AdminDropDown.resx">
+      <DependentUpon>AdminDropDown.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTATION_LAYER_FORMS\ADMIN FORMS\Master_Admin.resx">
+      <DependentUpon>Master_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTATION_LAYER_FORMS\ADMIN FORMS\ViewRechargeRequests.resx">
+      <DependentUpon>ViewRechargeRequests.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTATION_LAYER_FORMS\CUSTOMER FORMS\Edit User.resx">
+      <DependentUpon>Edit User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTATION_LAYER_FORMS\FORGOT_PASSWORD.resx">
+      <DependentUpon>FORGOT_PASSWORD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTATION_LAYER_FORMS\Forgot_Password_verify_ID.resx">
+      <DependentUpon>Forgot_Password_verify_ID.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTATION_LAYER_FORMS\Forgot_Password_verify_Mobile.resx">
+      <DependentUpon>Forgot_Password_verify_Mobile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTATION_LAYER_FORMS\LOGIN.resx">
+      <DependentUpon>LOGIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTATION_LAYER_FORMS\CUSTOMER FORMS\Master_User.resx">
+      <DependentUpon>Master_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTATION_LAYER_FORMS\CUSTOMER FORMS\User_Recharge_Request.resx">
+      <DependentUpon>User_Recharge_Request.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="PRESENTATION_LAYER_FORMS\SIGNUP_USER_FORM.resx">
+      <DependentUpon>SIGNUP_USER_FORM.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="AYAN_TELECOM_WINAPP_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="smartphone_hbI_icon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
