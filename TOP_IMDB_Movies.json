@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
   {
     "Slno": "0",
@@ -1499,4 +1500,1507 @@
     "Movie Year": "(2003)]",
     "Movie Rating": "8.0]"
   }
+=======
+[
+  {
+    "Slno": "0",
+    "Movie Name": "[The Shawshank Redemption",
+    "Movie Year": "[(1994)",
+    "Movie Rating": "[9.2"
+  },
+  {
+    "Slno": "1",
+    "Movie Name": "The Godfather",
+    "Movie Year": "(1972)",
+    "Movie Rating": "9.2"
+  },
+  {
+    "Slno": "2",
+    "Movie Name": "The Godfather: Part II",
+    "Movie Year": "(1974)",
+    "Movie Rating": "9.0"
+  },
+  {
+    "Slno": "3",
+    "Movie Name": "The Dark Knight",
+    "Movie Year": "(2008)",
+    "Movie Rating": "9.0"
+  },
+  {
+    "Slno": "4",
+    "Movie Name": "12 Angry Men",
+    "Movie Year": "(1957)",
+    "Movie Rating": "8.9"
+  },
+  {
+    "Slno": "5",
+    "Movie Name": "Schindler's List",
+    "Movie Year": "(1993)",
+    "Movie Rating": "8.9"
+  },
+  {
+    "Slno": "6",
+    "Movie Name": "The Lord of the Rings: The Return of the King",
+    "Movie Year": "(2003)",
+    "Movie Rating": "8.9"
+  },
+  {
+    "Slno": "7",
+    "Movie Name": "Pulp Fiction",
+    "Movie Year": "(1994)",
+    "Movie Rating": "8.9"
+  },
+  {
+    "Slno": "8",
+    "Movie Name": "Il buono",
+    "Movie Year": "(1966)",
+    "Movie Rating": "8.8"
+  },
+  {
+    "Slno": "9",
+    "Movie Name": "il brutto",
+    "Movie Year": "(1999)",
+    "Movie Rating": "8.8"
+  },
+  {
+    "Slno": "10",
+    "Movie Name": "il cattivo",
+    "Movie Year": "(2001)",
+    "Movie Rating": "8.8"
+  },
+  {
+    "Slno": "11",
+    "Movie Name": "Fight Club",
+    "Movie Year": "(1994)",
+    "Movie Rating": "8.7"
+  },
+  {
+    "Slno": "12",
+    "Movie Name": "The Lord of the Rings: The Fellowship of the Ring",
+    "Movie Year": "(1980)",
+    "Movie Rating": "8.7"
+  },
+  {
+    "Slno": "13",
+    "Movie Name": "Forrest Gump",
+    "Movie Year": "(2010)",
+    "Movie Rating": "8.7"
+  },
+  {
+    "Slno": "14",
+    "Movie Name": "Star Wars: Episode V - The Empire Strikes Back",
+    "Movie Year": "(2002)",
+    "Movie Rating": "8.7"
+  },
+  {
+    "Slno": "15",
+    "Movie Name": "Inception",
+    "Movie Year": "(1975)",
+    "Movie Rating": "8.7"
+  },
+  {
+    "Slno": "16",
+    "Movie Name": "The Lord of the Rings: The Two Towers",
+    "Movie Year": "(1990)",
+    "Movie Rating": "8.7"
+  },
+  {
+    "Slno": "17",
+    "Movie Name": "One Flew Over the Cuckoo's Nest",
+    "Movie Year": "(1999)",
+    "Movie Rating": "8.6"
+  },
+  {
+    "Slno": "18",
+    "Movie Name": "Goodfellas",
+    "Movie Year": "(1954)",
+    "Movie Rating": "8.6"
+  },
+  {
+    "Slno": "19",
+    "Movie Name": "The Matrix",
+    "Movie Year": "(2002)",
+    "Movie Rating": "8.6"
+  },
+  {
+    "Slno": "20",
+    "Movie Name": "Shichinin no samurai",
+    "Movie Year": "(1977)",
+    "Movie Rating": "8.6"
+  },
+  {
+    "Slno": "21",
+    "Movie Name": "Cidade de Deus",
+    "Movie Year": "(1995)",
+    "Movie Rating": "8.6"
+  },
+  {
+    "Slno": "22",
+    "Movie Name": "Star Wars",
+    "Movie Year": "(1991)",
+    "Movie Rating": "8.6"
+  },
+  {
+    "Slno": "23",
+    "Movie Name": "Se7en",
+    "Movie Year": "(1946)",
+    "Movie Rating": "8.6"
+  },
+  {
+    "Slno": "24",
+    "Movie Name": "The Silence of the Lambs",
+    "Movie Year": "(1997)",
+    "Movie Rating": "8.6"
+  },
+  {
+    "Slno": "25",
+    "Movie Name": "It's a Wonderful Life",
+    "Movie Year": "(1995)",
+    "Movie Rating": "8.5"
+  },
+  {
+    "Slno": "26",
+    "Movie Name": "La vita \u00e8 bella",
+    "Movie Year": "(2001)",
+    "Movie Rating": "8.5"
+  },
+  {
+    "Slno": "27",
+    "Movie Name": "The Usual Suspects",
+    "Movie Year": "(1998)",
+    "Movie Rating": "8.5"
+  },
+  {
+    "Slno": "28",
+    "Movie Name": "Sen to Chihiro no kamikakushi",
+    "Movie Year": "(1994)",
+    "Movie Rating": "8.5"
+  },
+  {
+    "Slno": "29",
+    "Movie Name": "Saving Private Ryan",
+    "Movie Year": "(1999)",
+    "Movie Rating": "8.5"
+  },
+  {
+    "Slno": "30",
+    "Movie Name": "L\u00e9on",
+    "Movie Year": "(2014)",
+    "Movie Rating": "8.5"
+  },
+  {
+    "Slno": "31",
+    "Movie Name": "The Green Mile",
+    "Movie Year": "(2018)",
+    "Movie Rating": "8.5"
+  },
+  {
+    "Slno": "32",
+    "Movie Name": "Interstellar",
+    "Movie Year": "(1998)",
+    "Movie Rating": "8.5"
+  },
+  {
+    "Slno": "33",
+    "Movie Name": "Avengers: Infinity War",
+    "Movie Year": "(1960)",
+    "Movie Rating": "8.5"
+  },
+  {
+    "Slno": "34",
+    "Movie Name": "American History X",
+    "Movie Year": "(1931)",
+    "Movie Rating": "8.5"
+  },
+  {
+    "Slno": "35",
+    "Movie Name": "Psycho",
+    "Movie Year": "(1968)",
+    "Movie Rating": "8.5"
+  },
+  {
+    "Slno": "36",
+    "Movie Name": "City Lights",
+    "Movie Year": "(1942)",
+    "Movie Rating": "8.5"
+  },
+  {
+    "Slno": "37",
+    "Movie Name": "Once Upon a Time in the West",
+    "Movie Year": "(1936)",
+    "Movie Rating": "8.5"
+  },
+  {
+    "Slno": "38",
+    "Movie Name": "Casablanca",
+    "Movie Year": "(2011)",
+    "Movie Rating": "8.5"
+  },
+  {
+    "Slno": "39",
+    "Movie Name": "Modern Times",
+    "Movie Year": "(2002)",
+    "Movie Rating": "8.5"
+  },
+  {
+    "Slno": "40",
+    "Movie Name": "The Intouchables",
+    "Movie Year": "(2006)",
+    "Movie Rating": "8.5"
+  },
+  {
+    "Slno": "41",
+    "Movie Name": "The Pianist",
+    "Movie Year": "(1991)",
+    "Movie Rating": "8.5"
+  },
+  {
+    "Slno": "42",
+    "Movie Name": "The Departed",
+    "Movie Year": "(1985)",
+    "Movie Rating": "8.5"
+  },
+  {
+    "Slno": "43",
+    "Movie Name": "Terminator 2: Judgment Day",
+    "Movie Year": "(1954)",
+    "Movie Rating": "8.5"
+  },
+  {
+    "Slno": "44",
+    "Movie Name": "Back to the Future",
+    "Movie Year": "(1981)",
+    "Movie Rating": "8.5"
+  },
+  {
+    "Slno": "45",
+    "Movie Name": "Rear Window",
+    "Movie Year": "(2014)",
+    "Movie Rating": "8.5"
+  },
+  {
+    "Slno": "46",
+    "Movie Name": "Raiders of the Lost Ark",
+    "Movie Year": "(2000)",
+    "Movie Rating": "8.5"
+  },
+  {
+    "Slno": "47",
+    "Movie Name": "Whiplash",
+    "Movie Year": "(1994)",
+    "Movie Rating": "8.5"
+  },
+  {
+    "Slno": "48",
+    "Movie Name": "Gladiator",
+    "Movie Year": "(2006)",
+    "Movie Rating": "8.5"
+  },
+  {
+    "Slno": "49",
+    "Movie Name": "The Lion King",
+    "Movie Year": "(2000)",
+    "Movie Rating": "8.4"
+  },
+  {
+    "Slno": "50",
+    "Movie Name": "The Prestige",
+    "Movie Year": "(1979)",
+    "Movie Rating": "8.4"
+  },
+  {
+    "Slno": "51",
+    "Movie Name": "Memento",
+    "Movie Year": "(1979)",
+    "Movie Rating": "8.4"
+  },
+  {
+    "Slno": "52",
+    "Movie Name": "Apocalypse Now",
+    "Movie Year": "(1940)",
+    "Movie Rating": "8.4"
+  },
+  {
+    "Slno": "53",
+    "Movie Name": "Alien",
+    "Movie Year": "(1988)",
+    "Movie Rating": "8.4"
+  },
+  {
+    "Slno": "54",
+    "Movie Name": "The Great Dictator",
+    "Movie Year": "(1988)",
+    "Movie Rating": "8.4"
+  },
+  {
+    "Slno": "55",
+    "Movie Name": "Nuovo Cinema Paradiso",
+    "Movie Year": "(1950)",
+    "Movie Rating": "8.4"
+  },
+  {
+    "Slno": "56",
+    "Movie Name": "Hotaru no haka",
+    "Movie Year": "(1964)",
+    "Movie Rating": "8.4"
+  },
+  {
+    "Slno": "57",
+    "Movie Name": "Sunset Blvd.",
+    "Movie Year": "(2006)",
+    "Movie Rating": "8.4"
+  },
+  {
+    "Slno": "58",
+    "Movie Name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "Movie Year": "(1957)",
+    "Movie Rating": "8.4"
+  },
+  {
+    "Slno": "59",
+    "Movie Name": "The Lives of Others",
+    "Movie Year": "(1980)",
+    "Movie Rating": "8.4"
+  },
+  {
+    "Slno": "60",
+    "Movie Name": "Paths of Glory",
+    "Movie Year": "(2012)",
+    "Movie Rating": "8.4"
+  },
+  {
+    "Slno": "61",
+    "Movie Name": "The Shining",
+    "Movie Year": "(2008)",
+    "Movie Rating": "8.4"
+  },
+  {
+    "Slno": "62",
+    "Movie Name": "Django Unchained",
+    "Movie Year": "(2017)",
+    "Movie Rating": "8.4"
+  },
+  {
+    "Slno": "63",
+    "Movie Name": "WALL\u00b7E",
+    "Movie Year": "(1997)",
+    "Movie Rating": "8.4"
+  },
+  {
+    "Slno": "64",
+    "Movie Name": "Coco",
+    "Movie Year": "(1957)",
+    "Movie Rating": "8.4"
+  },
+  {
+    "Slno": "65",
+    "Movie Name": "Mononoke-hime",
+    "Movie Year": "(1999)",
+    "Movie Rating": "8.4"
+  },
+  {
+    "Slno": "66",
+    "Movie Name": "Witness for the Prosecution",
+    "Movie Year": "(2012)",
+    "Movie Rating": "8.4"
+  },
+  {
+    "Slno": "67",
+    "Movie Name": "American Beauty",
+    "Movie Year": "(2003)",
+    "Movie Rating": "8.4"
+  },
+  {
+    "Slno": "68",
+    "Movie Name": "The Dark Knight Rises",
+    "Movie Year": "(1986)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "69",
+    "Movie Name": "Oldeuboi",
+    "Movie Year": "(1984)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "70",
+    "Movie Name": "Aliens",
+    "Movie Year": "(1981)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "71",
+    "Movie Name": "Once Upon a Time in America",
+    "Movie Year": "(1941)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "72",
+    "Movie Name": "Das Boot",
+    "Movie Year": "(1958)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "73",
+    "Movie Name": "Citizen Kane",
+    "Movie Year": "(1995)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "74",
+    "Movie Name": "Vertigo",
+    "Movie Year": "(1959)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "75",
+    "Movie Name": "Braveheart",
+    "Movie Year": "(1992)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "76",
+    "Movie Name": "North by Northwest",
+    "Movie Year": "(2016)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "77",
+    "Movie Name": "Reservoir Dogs",
+    "Movie Year": "(1983)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "78",
+    "Movie Name": "Kimi no na wa.",
+    "Movie Year": "(1931)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "79",
+    "Movie Name": "Star Wars: Episode VI - Return of the Jedi",
+    "Movie Year": "(2016)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "80",
+    "Movie Name": "M - Eine Stadt sucht einen M\u00f6rder",
+    "Movie Year": "(2000)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "81",
+    "Movie Name": "Dangal",
+    "Movie Year": "(1984)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "82",
+    "Movie Name": "Requiem for a Dream",
+    "Movie Year": "(2007)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "83",
+    "Movie Name": "Amadeus",
+    "Movie Year": "(1962)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "84",
+    "Movie Name": "Taare Zameen Par",
+    "Movie Year": "(1971)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "85",
+    "Movie Name": "Lawrence of Arabia",
+    "Movie Year": "(2001)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "86",
+    "Movie Name": "A Clockwork Orange",
+    "Movie Year": "(2004)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "87",
+    "Movie Name": "Am\u00e9lie",
+    "Movie Year": "(1944)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "88",
+    "Movie Name": "Eternal Sunshine of the Spotless Mind",
+    "Movie Year": "(1976)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "89",
+    "Movie Name": "Double Indemnity",
+    "Movie Year": "(2009)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "90",
+    "Movie Name": "Taxi Driver",
+    "Movie Year": "(1968)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "91",
+    "Movie Name": "3 Idiots",
+    "Movie Year": "(1995)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "92",
+    "Movie Name": "2001: A Space Odyssey",
+    "Movie Year": "(1952)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "93",
+    "Movie Name": "Toy Story",
+    "Movie Year": "(1987)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "94",
+    "Movie Name": "Singin' in the Rain",
+    "Movie Year": "(2009)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "95",
+    "Movie Name": "Full Metal Jacket",
+    "Movie Year": "(1962)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "96",
+    "Movie Name": "Inglourious Basterds",
+    "Movie Year": "(1948)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "97",
+    "Movie Name": "To Kill a Mockingbird",
+    "Movie Year": "(1921)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "98",
+    "Movie Name": "Ladri di biciclette",
+    "Movie Year": "(1973)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "99",
+    "Movie Name": "The Kid",
+    "Movie Year": "(2010)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "100",
+    "Movie Name": "The Sting",
+    "Movie Year": "(1997)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "101",
+    "Movie Name": "Toy Story 3",
+    "Movie Year": "(2012)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "102",
+    "Movie Name": "Good Will Hunting",
+    "Movie Year": "(2000)",
+    "Movie Rating": "8.3"
+  },
+  {
+    "Slno": "103",
+    "Movie Name": "Jagten",
+    "Movie Year": "(1975)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "104",
+    "Movie Name": "Snatch",
+    "Movie Year": "(1965)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "105",
+    "Movie Name": "Monty Python and the Holy Grail",
+    "Movie Year": "(1983)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "106",
+    "Movie Name": "Per qualche dollaro in pi\u00f9",
+    "Movie Year": "(1997)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "107",
+    "Movie Name": "Scarface",
+    "Movie Year": "(1960)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "108",
+    "Movie Name": "L.A. Confidential",
+    "Movie Year": "(1927)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "109",
+    "Movie Name": "The Apartment",
+    "Movie Year": "(2011)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "110",
+    "Movie Name": "Metropolis",
+    "Movie Year": "(1989)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "111",
+    "Movie Name": "Jodaeiye Nader az Simin",
+    "Movie Year": "(1950)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "112",
+    "Movie Name": "Indiana Jones and the Last Crusade",
+    "Movie Year": "(2009)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "113",
+    "Movie Name": "Rash\u00f4mon",
+    "Movie Year": "(1961)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "114",
+    "Movie Name": "Up",
+    "Movie Year": "(1950)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "115",
+    "Movie Name": "Y\u00f4jinb\u00f4",
+    "Movie Year": "(2005)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "116",
+    "Movie Name": "All About Eve",
+    "Movie Year": "(1959)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "117",
+    "Movie Name": "Batman Begins",
+    "Movie Year": "(1992)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "118",
+    "Movie Name": "Some Like It Hot",
+    "Movie Year": "(2004)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "119",
+    "Movie Name": "Unforgiven",
+    "Movie Year": "(1948)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "120",
+    "Movie Name": "Der Untergang",
+    "Movie Year": "(1988)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "121",
+    "Movie Name": "The Treasure of the Sierra Madre",
+    "Movie Year": "(1995)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "122",
+    "Movie Name": "Die Hard",
+    "Movie Year": "(1980)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "123",
+    "Movie Name": "Heat",
+    "Movie Year": "(1952)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "124",
+    "Movie Name": "Raging Bull",
+    "Movie Year": "(2005)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "125",
+    "Movie Name": "Ikiru",
+    "Movie Year": "(1963)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "126",
+    "Movie Name": "Babam ve Oglum",
+    "Movie Year": "(2010)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "127",
+    "Movie Name": "The Great Escape",
+    "Movie Year": "(1997)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "128",
+    "Movie Name": "Incendies",
+    "Movie Year": "(1949)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "129",
+    "Movie Name": "Bacheha-Ye aseman",
+    "Movie Year": "(2006)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "130",
+    "Movie Name": "The Third Man",
+    "Movie Year": "(1974)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "131",
+    "Movie Name": "Pan's Labyrinth",
+    "Movie Year": "(1988)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "132",
+    "Movie Name": "Chinatown",
+    "Movie Year": "(1985)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "133",
+    "Movie Name": "Tonari no Totoro",
+    "Movie Year": "(1961)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "134",
+    "Movie Name": "Ran",
+    "Movie Year": "(2004)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "135",
+    "Movie Name": "Judgment at Nuremberg",
+    "Movie Year": "(1925)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "136",
+    "Movie Name": "Hauru no ugoku shiro",
+    "Movie Year": "(2009)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "137",
+    "Movie Name": "The Gold Rush",
+    "Movie Year": "(2017)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "138",
+    "Movie Name": "El secreto de sus ojos",
+    "Movie Year": "(1957)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "139",
+    "Movie Name": "Three Billboards Outside Ebbing",
+    "Movie Year": "(1954)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "140",
+    "Movie Name": "Missouri",
+    "Movie Year": "(2001)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "141",
+    "Movie Name": "The Bridge on the River Kwai",
+    "Movie Year": "(1998)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "142",
+    "Movie Name": "On the Waterfront",
+    "Movie Year": "(1957)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "143",
+    "Movie Name": "A Beautiful Mind",
+    "Movie Year": "(1995)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "144",
+    "Movie Name": "Lock",
+    "Movie Year": "(2015)",
+    "Movie Rating": "8.2"
+  },
+  {
+    "Slno": "145",
+    "Movie Name": "Stock and Two Smoking Barrels",
+    "Movie Year": "(2015)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "146",
+    "Movie Name": "Det sjunde inseglet",
+    "Movie Year": "(1980)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "147",
+    "Movie Name": "Casino",
+    "Movie Year": "(1939)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "148",
+    "Movie Name": "Inside Out",
+    "Movie Year": "(2013)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "149",
+    "Movie Name": "Room",
+    "Movie Year": "(2005)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "150",
+    "Movie Name": "The Elephant Man",
+    "Movie Year": "(2011)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "151",
+    "Movie Name": "Mr. Smith Goes to Washington",
+    "Movie Year": "(1982)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "152",
+    "Movie Name": "The Wolf of Wall Street",
+    "Movie Year": "(1957)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "153",
+    "Movie Name": "V for Vendetta",
+    "Movie Year": "(1926)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "154",
+    "Movie Name": "Warrior",
+    "Movie Year": "(1954)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "155",
+    "Movie Name": "Blade Runner",
+    "Movie Year": "(1996)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "156",
+    "Movie Name": "Smultronst\u00e4llet",
+    "Movie Year": "(2007)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "157",
+    "Movie Name": "The General",
+    "Movie Year": "(1939)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "158",
+    "Movie Name": "Dial M for Murder",
+    "Movie Year": "(1999)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "159",
+    "Movie Name": "Trainspotting",
+    "Movie Year": "(2007)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "160",
+    "Movie Name": "No Country for Old Men",
+    "Movie Year": "(1996)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "161",
+    "Movie Name": "Gone with the Wind",
+    "Movie Year": "(2008)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "162",
+    "Movie Name": "The Sixth Sense",
+    "Movie Year": "(1982)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "163",
+    "Movie Name": "There Will Be Blood",
+    "Movie Year": "(1978)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "164",
+    "Movie Name": "Fargo",
+    "Movie Year": "(2003)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "165",
+    "Movie Name": "Gran Torino",
+    "Movie Year": "(1924)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "166",
+    "Movie Name": "The Thing",
+    "Movie Year": "(1985)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "167",
+    "Movie Name": "The Deer Hunter",
+    "Movie Year": "(1998)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "168",
+    "Movie Name": "Finding Nemo",
+    "Movie Year": "(2003)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "169",
+    "Movie Name": "Sherlock Jr.",
+    "Movie Year": "(1967)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "170",
+    "Movie Name": "Idi i smotri",
+    "Movie Year": "(2010)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "171",
+    "Movie Name": "The Big Lebowski",
+    "Movie Year": "(1940)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "172",
+    "Movie Name": "Kill Bill: Vol. 1",
+    "Movie Year": "(1953)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "173",
+    "Movie Name": "Cool Hand Luke",
+    "Movie Year": "(1927)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "174",
+    "Movie Name": "Shutter Island",
+    "Movie Year": "(2016)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "175",
+    "Movie Name": "Rebecca",
+    "Movie Year": "(2009)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "176",
+    "Movie Name": "T\u00f4ky\u00f4 monogatari",
+    "Movie Year": "(2010)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "177",
+    "Movie Name": "Sunrise: A Song of Two Humans",
+    "Movie Year": "(2014)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "178",
+    "Movie Name": "Hacksaw Ridge",
+    "Movie Year": "(2014)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "179",
+    "Movie Name": "Mary and Max",
+    "Movie Year": "(2007)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "180",
+    "Movie Name": "How to Train Your Dragon",
+    "Movie Year": "(1996)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "181",
+    "Movie Name": "Gone Girl",
+    "Movie Year": "(1979)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "182",
+    "Movie Name": "Relatos salvajes",
+    "Movie Year": "(1993)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "183",
+    "Movie Name": "Into the Wild",
+    "Movie Year": "(1934)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "184",
+    "Movie Name": "Eskiya",
+    "Movie Year": "(1986)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "185",
+    "Movie Name": "Life of Brian",
+    "Movie Year": "(1993)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "186",
+    "Movie Name": "Jurassic Park",
+    "Movie Year": "(2014)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "187",
+    "Movie Name": "It Happened One Night",
+    "Movie Year": "(1986)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "188",
+    "Movie Name": "Platoon",
+    "Movie Year": "(1966)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "189",
+    "Movie Name": "In the Name of the Father",
+    "Movie Year": "(1976)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "190",
+    "Movie Name": "The Grand Budapest Hotel",
+    "Movie Year": "(2006)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "191",
+    "Movie Name": "Stand by Me",
+    "Movie Year": "(2018)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "192",
+    "Movie Name": "Andrei Rublev",
+    "Movie Year": "(2004)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "193",
+    "Movie Name": "Network",
+    "Movie Year": "(1998)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "194",
+    "Movie Name": "Rang De Basanti",
+    "Movie Year": "(1979)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "195",
+    "Movie Name": "Mission: Impossible - Fallout",
+    "Movie Year": "(1966)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "196",
+    "Movie Name": "Hotel Rwanda",
+    "Movie Year": "(1959)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "197",
+    "Movie Name": "The Truman Show",
+    "Movie Year": "(1928)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "198",
+    "Movie Name": "Stalker",
+    "Movie Year": "(1953)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "199",
+    "Movie Name": "Persona",
+    "Movie Year": "(2003)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "200",
+    "Movie Name": "Ben-Hur",
+    "Movie Year": "(2013)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "201",
+    "Movie Name": "La passion de Jeanne d'Arc",
+    "Movie Year": "(2013)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "202",
+    "Movie Name": "Le salaire de la peur",
+    "Movie Year": "(2004)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "203",
+    "Movie Name": "Salinui chueok",
+    "Movie Year": "(2015)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "204",
+    "Movie Name": "12 Years a Slave",
+    "Movie Year": "(1995)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "205",
+    "Movie Name": "Rush",
+    "Movie Year": "(1959)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "206",
+    "Movie Name": "Million Dollar Baby",
+    "Movie Year": "(2015)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "207",
+    "Movie Name": "Mad Max: Fury Road",
+    "Movie Year": "(2017)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "208",
+    "Movie Name": "Before Sunrise",
+    "Movie Year": "(2000)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "209",
+    "Movie Name": "Les quatre cents coups",
+    "Movie Year": "(2009)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "210",
+    "Movie Name": "Spotlight",
+    "Movie Year": "(2013)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "211",
+    "Movie Name": "Logan",
+    "Movie Year": "(1987)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "212",
+    "Movie Name": "Amores perros",
+    "Movie Year": "(1984)",
+    "Movie Rating": "8.1"
+  },
+  {
+    "Slno": "213",
+    "Movie Name": "Hachi: A Dog's Tale",
+    "Movie Year": "(1969)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "214",
+    "Movie Name": "Prisoners",
+    "Movie Year": "(2002)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "215",
+    "Movie Name": "The Princess Bride",
+    "Movie Year": "(2011)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "216",
+    "Movie Name": "Kaze no tani no Naushika",
+    "Movie Year": "(1976)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "217",
+    "Movie Name": "Butch Cassidy and the Sundance Kid",
+    "Movie Year": "(1941)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "218",
+    "Movie Name": "Catch Me If You Can",
+    "Movie Year": "(1975)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "219",
+    "Movie Name": "Harry Potter and the Deathly Hallows: Part 2",
+    "Movie Year": "(2017)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "220",
+    "Movie Name": "Rocky",
+    "Movie Year": "(2001)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "221",
+    "Movie Name": "The Maltese Falcon",
+    "Movie Year": "(1940)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "222",
+    "Movie Name": "Barry Lyndon",
+    "Movie Year": "(2016)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "223",
+    "Movie Name": "Blade Runner 2049",
+    "Movie Year": "(2001)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "224",
+    "Movie Name": "Monsters",
+    "Movie Year": "(1955)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "225",
+    "Movie Name": "Inc.",
+    "Movie Year": "(1957)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "226",
+    "Movie Name": "The Grapes of Wrath",
+    "Movie Year": "(1982)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "227",
+    "Movie Name": "La La Land",
+    "Movie Year": "(1984)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "228",
+    "Movie Name": "Donnie Darko",
+    "Movie Year": "(1989)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "229",
+    "Movie Name": "Les diaboliques",
+    "Movie Year": "(1995)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "230",
+    "Movie Name": "Le notti di Cabiria",
+    "Movie Year": "(2008)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "231",
+    "Movie Name": "Gandhi",
+    "Movie Year": "(1993)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "232",
+    "Movie Name": "The Terminator",
+    "Movie Year": "(1939)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "233",
+    "Movie Name": "Dead Poets Society",
+    "Movie Year": "(1973)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "234",
+    "Movie Name": "La haine",
+    "Movie Year": "(1975)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "235",
+    "Movie Name": "A Wednesday",
+    "Movie Year": "(2012)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "236",
+    "Movie Name": "Groundhog Day",
+    "Movie Year": "(2011)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "237",
+    "Movie Name": "The Wizard of Oz",
+    "Movie Year": "(2000)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "238",
+    "Movie Name": "Paper Moon",
+    "Movie Year": "(1958)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "239",
+    "Movie Name": "Jaws",
+    "Movie Year": "(2007)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "240",
+    "Movie Name": "Gangs of Wasseypur",
+    "Movie Year": "(2004)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "241",
+    "Movie Name": "The Help",
+    "Movie Year": "(1963)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "242",
+    "Movie Name": "Faa yeung nin wa",
+    "Movie Year": "(2014)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "243",
+    "Movie Name": "Touch of Evil",
+    "Movie Year": "(1984)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "244",
+    "Movie Name": "The Bourne Ultimatum",
+    "Movie Year": "(2013)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "245",
+    "Movie Name": "Before Sunset",
+    "Movie Year": "(2016)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "246",
+    "Movie Name": "8\u00bd",
+    "Movie Year": "(1946)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "247",
+    "Movie Name": "Guardians of the Galaxy",
+    "Movie Year": "(2018)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "248",
+    "Movie Name": "Paris",
+    "Movie Year": "(1991)",
+    "Movie Rating": "8.0"
+  },
+  {
+    "Slno": "249",
+    "Movie Name": "Texas",
+    "Movie Year": "(2003)]",
+    "Movie Rating": "8.0]"
+  }
+>>>>>>> 09758ed8be983ae36f234a883ea04bde1a03d11d
 ]
