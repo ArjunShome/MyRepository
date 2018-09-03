@@ -1,19 +1,16 @@
 from bs4 import BeautifulSoup as scrap
 import requests as r
 import pyodbc
+import datetime
+print(datetime.datetime.now())
 
-
-# Get The WebPage Body
-def gethtmlbody(lnk):
-    data = r.get(lnk)
-    pgbody = scrap(data.text, "html.parser")
-    return pgbody
 
 
 # Get the Data
 def FetchData(html, link):
     link = link.replace("wkhistdata.htm", "")
     message = []
+
     anchors = html.findAll("a")
     anchorbody = scrap(str(anchors), "html.parser")
     for a in anchorbody.findAll('a', href=True):
@@ -21,7 +18,8 @@ def FetchData(html, link):
         tblcols = []
         tablesdata = []
         parselink = str(link) + str(a['href'])
-        linkbody = gethtmlbody(parselink)
+        data = r.get(parselink)
+        linkbody = scrap(data.text, "html.parser")
 
         # GET HEADER
         for para in linkbody.findAll("p"):
@@ -74,18 +72,17 @@ def FetchData(html, link):
         tablesdata.append(rowsdata)
 
         # INSERT IN DB
-        conn = pyodbc.connect(
-            "Driver={SQL Server Native Client 11.0};Server=CESTEST-04\MYSERVER;Database=CES_Practice;Trusted_Connection=Yes;")
+        conn = pyodbc.connect("Driver={SQL Server Native Client 11.0};Server=CESTEST-04\MYSERVER;Database=CES_Practice;Trusted_Connection=Yes;")
         cursor = conn.cursor()
         for data in tablesdata:
-            command = "IF (NOT EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND  TABLE_NAME = '" + str(header).replace("-", "_") + "'))BEGIN CREATE TABLE dbo." + str(header).replace("-", "_") + "(" + colstr + ") END"
+            command = "IF NOT EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND  TABLE_NAME = '" + str(header).replace("-", "_") + "') BEGIN CREATE TABLE dbo." + str(header).replace("-", "_") + "(" + colstr + ") END"
             cursor.execute(command)
             cursor.commit()
             for row in data[1:-1]:
                 records = {}
                 records['table'] = str(header).replace("-", "_")
                 records['values'] = tuple(row)
-                command = "INSERT INTO {table} VALUES {values};".format(**records)
+                command = "IF NOT EXISTS (SELECT * FROM " + str(header).replace("-", "_") + ") BEGIN INSERT INTO {table} VALUES {values} END;".format(**records)
                 cursor.execute(command)
                 cursor.commit()
             message.append("SUCCESSFULLY CREATED TABLE " + header + " AND ALL THE RECORDS GOT INSERTED")
@@ -94,6 +91,10 @@ def FetchData(html, link):
 
 
 url = "https://apps.fas.usda.gov/export-sales/wkhistdata.htm"
-messages = FetchData(gethtmlbody(url), url)
+data = r.get(url)
+pgbody = scrap(data.text, "html.parser")
+messages = FetchData(pgbody, url)
 for message in messages:
     print(message)
+
+print(datetime.datetime.now())
